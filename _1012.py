@@ -12,7 +12,7 @@ c = float(input1[2])
 
 # triangle area
 tri = a*c/2
-res_tri = "TRIANGULO: %.3F" % tri
+res_tri = "TRIANGULO: %.3f" % tri
 
 # circle area
 cir = pi*pow(c,2)
